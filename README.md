@@ -1,3 +1,3 @@
 # hello-world
 share and discuss things
-Hello, I'm very happy and try to be better. haha...
+
